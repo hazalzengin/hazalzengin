@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/hazal-zengin-798197241/](https://github-readme-stats.vercel.app/api?username=hazalzengin&show_icons=true&theme=radical" target="blank"></a>
+<a href="https://github-readme-stats.vercel.app/api?username=hazalzengin&show_icons=true&theme=radical" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
